@@ -13,7 +13,7 @@ In it he describes his reverse engineering of this *mysterious* ULA (Uncommitted
 Chris also developed the Harlequin, a ZX Spectrum 48K clone based on parts that replace the ULA, so it is not needed anymore.<br>
 ZX Spectrum fans continued on this development which resulted in the design that is now known as the ‘Harlequin Superfo’. The current Rev G is the most stable one.<br><br>
 When I read all about this, I could not resist and decided in July 2020 to rebuild the ZX Spectrum, just for the fun of it.<br>
-This will be a low priority project of mine, I plan to have it working maybe by the end of the year.<br>
+This will be a low priority project of mine, I plan to have it working maybe in a couple of months.<br>
 
 <p align="center"><img src="Images/1024px-ZXspectrum_MotherBoard_CC-Attribution-to-Bill-Bertram2005.jpg?raw=true"/></p>
 
@@ -36,6 +36,9 @@ This will be a low priority project of mine, I plan to have it working maybe by 
 |---|---|
 | **Sinclair ZX Spectrum in general** ||
 | [Spectrum for Everyone](https://spectrumforeveryone.com) | Solid archive of information, reviews, articles and links for the Sinclair ZX Spectrum |
+| **Forums** ||
+| [Sinclair ZX World](https://www.sinclairzxworld.com) | -- |
+| [tlienhard/Spectrum](https://forum.tlienhard.com/phpBB3/viewforum.php?f=6) | -- |
 | **Harlequin Superfo Clone** ||
 | [Harlequin-ZX Spectrum48-Nachbau](https://forum.tlienhard.com/phpBB3/viewtopic.php?f=6&t=981) | Building Rev F (Ingo Truppel) [(Archived Thread)](Archive/Harlequin_ZX_Spectrum48_Nachbau.pdf) |
 | [The Harlequin 48k: A Spectrum Clone for the DIY-User](http://retrodepot.net/?p=3010) | Doug Gabbard's Blog [(Archived Thread)](Archive/The_Harlequin_48k_A_Spectrum_Clone_for_the_DIY-User.pdf) |
