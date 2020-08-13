@@ -28,7 +28,6 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 *Chris Smith book and the ULA chip, the main object of his analysis*
 
 
-
 ## Project log
 
 - 2020/07 decided to rebuild the ZX Spectrum, based on the Harlequin Superfo board Rev G
@@ -46,6 +45,7 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 | [8-Bit Wiki](http://www.8bit-wiki.de/8bitdb.html?&no_cache=1&tx_coolautoindex_pi1=1e127fc000000dir.Sinclair%2FZX_Spectrum%2F) | Technical resources and documents |
 | [List of ZX Spectrum clones](https://en.wikipedia.org/wiki/List_of_ZX_Spectrum_clones) | -- |
 | [ZX Spectrum ROM images](https://faqwiki.zxnet.co.uk/wiki/ROM_images) | ROM images for ZX Spectrum, clones/derivatives and peripherals |
+| [ZX Spectrum Diagnostics](https://github.com/brendanalford/zx-diagnostics/wiki) | ZX Spectrum Diagnostics ROM & Hardware |
 | **ZX Spectrum Forums** ||
 | [Sinclair ZX World](https://www.sinclairzxworld.com) | -- |
 | [tlienhard/Spectrum](https://forum.tlienhard.com/phpBB3/viewforum.php?f=6) | -- |
@@ -58,11 +58,14 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 | [Building ZX Spectrum Clone - Harlequin](http://www.malinov.com/Home/sergey-s-blog/buildingzxspectrumclone-harlequin-part1) | Sergey Kiselev's Blog [(Archived)](Archive/Building_ZX_Spectrum_Clone_Harlequin.pdf) |
 | [Building a Harlequin ZX Spectrum Clone](http://blog.tynemouthsoftware.co.uk/2016/11/building-harlequin-zx-spectrum-clone.html) | Dave Curran's Blog [(Archived)](Archive/Building_a_Harlequin_ZX_Spectrum_Clone.pdf) |
 | [Building a Harlequin Spectrum 128K Clone](http://www.breakintoprogram.co.uk/projects/harlequin/building-a-harlequin-spectrum-128k-clone) | Dean Belfield's Blog [(Archived)](Archive/Building_a_Harlequin_Spectrum_128K_Clone.pdf) |
-| []() | |
+| [ZX Spectrum Harlequin](https://blog.gjmccarthy.co.uk/zx-spectrum-harlequin/) | Greg's Blog |
 | **Shops** ||
 | [ZX Renew](https://zxrenew.co.uk) | -- |
 | [ByteDelight](https://www.bytedelight.com) | -- |
 | [Sintech](https://www.sintech-shop.de/retro-atari-commodore-sinclair-etc/sinclair/spectrum) | -- |
+| **Other** ||
+| [ZX-Nachbau Spectral (Neuauflage)](https://www.sax.de/~zander/zx/spec_nb.html#LIT) | Spectral - another ZX Spectrum clone [(Archived)](Archive/ZX-Nachbau_Spectral_(Neuauflage).pdf) |
+| []() | |
 
 
 ## Lizenz
