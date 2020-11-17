@@ -19,20 +19,21 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 
 ## Images
 
+###### The original ZX Spectrum mainboard
+
 ![pic](Images/1024px-ZXspectrum_MotherBoard_CC-Attribution-to-Bill-Bertram2005.jpg)
 
-*The original ZX Spectrum mainboard*
+###### Chris Smith book and the ULA chip, the main object of his analysis
 
 ![pic](Images/ZXSpectrum02.jpg)
-
-*Chris Smith book and the ULA chip, the main object of his analysis*
 
 
 ## Project log
 
 - 2020/07 decided to rebuild the ZX Spectrum, based on the Harlequin Superfo board Rev G
 - 2020/07 ordered a ZX Spectrum replacement case, keyboard and keyboard mat
-- 2020/07 ordered the PCB Rev G
+- 2020/07 ordered the Harlequin PCB Rev G
+- 2020/09 ordered a EPROM USB Universal Programmer TL866II Plus
 
 
 ## Links
@@ -43,6 +44,7 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 | [Spectrum for Everyone](https://spectrumforeveryone.com) | Solid archive of information, reviews, articles and links for the Sinclair ZX Spectrum |
 | [Sinclair FAQ Wiki](https://faqwiki.zxnet.co.uk/wiki/Main_Page) | Many technical information and resources |
 | [8-Bit Wiki](http://www.8bit-wiki.de/8bitdb.html?&no_cache=1&tx_coolautoindex_pi1=1e127fc000000dir.Sinclair%2FZX_Spectrum%2F) | Technical resources and documents |
+| [Nice overview of ZX Spectrum clones](http://tarjan.uw.hu/zxclones_en.htm) | [(Archived)](Archive/ZX_Spectrum_in_the_21st_Century.pdf) |
 | [List of ZX Spectrum clones](https://en.wikipedia.org/wiki/List_of_ZX_Spectrum_clones) | -- |
 | [ZX Spectrum ROM images](https://faqwiki.zxnet.co.uk/wiki/ROM_images) | ROM images for ZX Spectrum, clones/derivatives and peripherals |
 | [ZX Spectrum Diagnostics](https://github.com/brendanalford/zx-diagnostics/wiki) | ZX Spectrum Diagnostics ROM & Hardware |
@@ -59,10 +61,17 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 | [Building a Harlequin ZX Spectrum Clone](http://blog.tynemouthsoftware.co.uk/2016/11/building-harlequin-zx-spectrum-clone.html) | Dave Curran's Blog [(Archived)](Archive/Building_a_Harlequin_ZX_Spectrum_Clone.pdf) |
 | [Building a Harlequin Spectrum 128K Clone](http://www.breakintoprogram.co.uk/projects/harlequin/building-a-harlequin-spectrum-128k-clone) | Dean Belfield's Blog [(Archived)](Archive/Building_a_Harlequin_Spectrum_128K_Clone.pdf) |
 | [ZX Spectrum Harlequin](https://blog.gjmccarthy.co.uk/zx-spectrum-harlequin/) | Greg's Blog |
+| **Keyboard** ||
+| [48K-KDLX - ZX Spectrum 48k keyboard w. smd tactile switches](https://www.sinclairzxworld.com/viewtopic.php?f=21&t=1488) | [(Archived)](Archive/48K-KDLX-ZX_Spectrum_48k_keyboard_w._smd_tactile_switches.pdf) |
+| [ZX Spectrum Keyboard mit SMD Tastern](https://forum.tlienhard.com/phpBB3/viewtopic.php?f=6&t=1265) | [(Archived)](Archive/ZX_Spectrum_Keyboard_mit_SMD_Tastern.pdf) |
+| **Interfaces** ||
+| [8bit-wiki/Interfaces](http://www.8bit-wiki.de/8bitdb.html?&no_cache=1&tx_coolautoindex_pi1=cd5c2c1000000dir.Sinclair%2FZX_Spectrum%2Finterfaces%2F) | misc. Interface resources, schematics, firmwares |
+| [Interface 1bis](https://sites.google.com/site/interface1bis/home) | |
 | **Shops** ||
 | [ZX Renew](https://zxrenew.co.uk) | -- |
 | [ByteDelight](https://www.bytedelight.com) | -- |
 | [Sintech](https://www.sintech-shop.de/retro-atari-commodore-sinclair-etc/sinclair/spectrum) | -- |
+| [DivIDE](http://divide.cz/?x=eshopn&lang=en) | -- |
 | **Other** ||
 | [ZX-Nachbau Spectral (Neuauflage)](https://www.sax.de/~zander/zx/spec_nb.html#LIT) | Spectral - another ZX Spectrum clone [(Archived)](Archive/ZX-Nachbau_Spectral_(Neuauflage).pdf) |
 | []() | |
