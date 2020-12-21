@@ -44,8 +44,6 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 | [Spectrum for Everyone](https://spectrumforeveryone.com) | Solid archive of information, reviews, articles and links for the Sinclair ZX Spectrum |
 | [Sinclair FAQ Wiki](https://faqwiki.zxnet.co.uk/wiki/Main_Page) | Many technical information and resources |
 | [8-Bit Wiki](http://www.8bit-wiki.de/8bitdb.html?&no_cache=1&tx_coolautoindex_pi1=1e127fc000000dir.Sinclair%2FZX_Spectrum%2F) | Technical resources and documents |
-| [Nice overview of ZX Spectrum clones](http://tarjan.uw.hu/zxclones_en.htm) | [(Archived)](Archive/ZX_Spectrum_in_the_21st_Century.pdf) |
-| [List of ZX Spectrum clones](https://en.wikipedia.org/wiki/List_of_ZX_Spectrum_clones) | -- |
 | [ZX Spectrum ROM images](https://faqwiki.zxnet.co.uk/wiki/ROM_images) | ROM images for ZX Spectrum, clones/derivatives and peripherals |
 | [ZX Spectrum Diagnostics](https://github.com/brendanalford/zx-diagnostics/wiki) | ZX Spectrum Diagnostics ROM & Hardware |
 | **ZX Spectrum Forums** ||
@@ -67,13 +65,19 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 | **Interfaces** ||
 | [8bit-wiki/Interfaces](http://www.8bit-wiki.de/8bitdb.html?&no_cache=1&tx_coolautoindex_pi1=cd5c2c1000000dir.Sinclair%2FZX_Spectrum%2Finterfaces%2F) | misc. Interface resources, schematics, firmwares |
 | [Interface 1bis](https://sites.google.com/site/interface1bis/home) | |
+| [ProjectsSPECCY](http://projectspeccy.com/projects/) | Re-Creation of some historical interfaces, Romantic Robot Multiface 128, and others |
+| **Other Clones** ||
+| [List of ZX Spectrum clones](https://en.wikipedia.org/wiki/List_of_ZX_Spectrum_clones) | -- |
+| [Nice overview of ZX Spectrum clones](http://tarjan.uw.hu/zxclones_en.htm) | [(Archived)](Archive/ZX_Spectrum_in_the_21st_Century.pdf) |
+| [ZX-Nachbau Spectral (Neuauflage)](https://www.sax.de/~zander/zx/spec_nb.html#LIT) | Spectral - another ZX Spectrum clone [(Archived)](Archive/ZX-Nachbau_Spectral_(Neuauflage).pdf) |
+| [Sizif-512](https://github.com/UzixLS/zx-sizif-512) | Another CPLD-based ZX Spectrum clone for 48K rubber case with some sweet features by UzixLS |
+| [STECCY](https://www.mikrocontroller.net/articles/STECCY) | ZX-Spectrum-Emulator mit STM32 on a STM32F407VET Black Board and ILI9341 or SSD1963 LCD |
+| [STECCY Forum Thread](https://www.mikrocontroller.net/topic/490145#new) | -- |
 | **Shops** ||
 | [ZX Renew](https://zxrenew.co.uk) | -- |
 | [ByteDelight](https://www.bytedelight.com) | -- |
 | [Sintech](https://www.sintech-shop.de/retro-atari-commodore-sinclair-etc/sinclair/spectrum) | -- |
 | [DivIDE](http://divide.cz/?x=eshopn&lang=en) | -- |
-| **Other** ||
-| [ZX-Nachbau Spectral (Neuauflage)](https://www.sax.de/~zander/zx/spec_nb.html#LIT) | Spectral - another ZX Spectrum clone [(Archived)](Archive/ZX-Nachbau_Spectral_(Neuauflage).pdf) |
 | []() | |
 
 
