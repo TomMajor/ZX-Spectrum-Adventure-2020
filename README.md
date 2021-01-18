@@ -14,7 +14,7 @@ Chris also developed the Harlequin, a ZX Spectrum 48K clone based on parts that 
 Complete in 2008, it is the first 100% timing compatible clone.<br>
 ZX Spectrum fans continued on this development which resulted in the design that is now known as the ‘Harlequin Superfo’. The current Rev G is the most stable one.<br><br>
 When I read all about this, I could not resist and decided in July 2020 to rebuild the ZX Spectrum, just for the fun of it.<br>
-This will be a low priority project of mine, I plan to have it working maybe in a couple of months.<br>
+This will be a low priority project of mine, it will take a couple of months for sure.<br>
 
 
 ## Images
@@ -34,6 +34,12 @@ This will be a low priority project of mine, I plan to have it working maybe in 
 - 2020/07 ordered a ZX Spectrum replacement case, keyboard and keyboard mat
 - 2020/07 ordered the Harlequin PCB Rev G
 - 2020/09 ordered a EPROM USB Universal Programmer TL866II Plus
+- 2020/12 Started soldering, 50% done
+
+
+## BOM (Bill Of Materials) for ZX Spectrum Harlequin 48k Rev.G, Mouser and Reichelt
+
+[BOM ZX Spectrum Harlequin 48k RevG Tom Major](Files/ZXSpectrumHarlequin48k_RevG_TomMajor.pdf)
 
 
 ## Links
