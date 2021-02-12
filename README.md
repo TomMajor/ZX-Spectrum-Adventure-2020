@@ -33,7 +33,6 @@ This will be a low priority project of mine, it will take a couple of months for
 - 2020/07 decided to rebuild the ZX Spectrum, based on the Harlequin Superfo board Rev G
 - 2020/07 ordered a ZX Spectrum replacement case, keyboard and keyboard mat
 - 2020/07 ordered the Harlequin PCB Rev G
-- 2020/09 ordered a EPROM USB Universal Programmer TL866II Plus
 - 2020/12 Started soldering, 50% done
 
 
